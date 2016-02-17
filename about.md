@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 ![my photo]({{ site.url }}/assets/me.jpg)
-I love Python, NodeJS, data virtualization and VIM. I'm also a kindle fans.
+* Have strong interest in (`python`, `nodejs`, `robotframework`, `TA`, `git`, `Markdown`, `vim`, `linux`).
